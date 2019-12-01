@@ -41,7 +41,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/kursatcinar/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:/kursatcinar/sfg-pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 </project>
